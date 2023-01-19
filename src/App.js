@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import QRCode from 'react-qr-code'
-import './app.css'
+import './App.css'
 
 function App() {
 	const [input, setInput] = useState('')
